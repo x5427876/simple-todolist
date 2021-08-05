@@ -1,6 +1,6 @@
 # Simple TodoList
 
-使用 React + Styled Component + Bootstrap 完成的小作品
+使用 React + TailwindCSS 完成的小作品
 
 2021/07/01 By Gavin
 <br>
