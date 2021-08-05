@@ -4,7 +4,7 @@
 
 2021/07/01 By Gavin
 
-更新紀錄:
+##更新紀錄:
 
 2021/08/05:
 1.更改為function Component
